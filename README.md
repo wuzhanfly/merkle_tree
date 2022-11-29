@@ -1,6 +1,7 @@
+# merkle_tree
 
 #### Example Usage
-Below is an example that makes use of the entire API - its quite small.
+
 ```go
 package main
 
@@ -69,4 +70,4 @@ func main() {
 }
 
 ```
-# merkle_tree
+
